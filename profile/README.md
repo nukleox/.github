@@ -1,3 +1,3 @@
 # Nukleox
 
-Nukleox is a newe approach to cloud native software development where code generation is at the core of the process, with humans receiving tasks to complete, adjust or review generated code. Nukleox uses a gitops approach to take high-level product specifications and transform them into a fully functional, production-ready, kubernetes cluster. 
+Nukleox is a new breed of operating systems solving the disconnect between computing devices and the modern way of using them. Current operating system paradigms were developped 50 years ago and, while they improved a lot, they are still single device oriented while they should be user oriented, managing multiple devices and enabling efficient collaboration between users and businesses. 
