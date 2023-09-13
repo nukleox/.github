@@ -1,3 +1,3 @@
 # Nukleox
 
-Nukleox transforms modern computing with a new take on operating systems, built on existing technologies, but aligned with how we use computers today. 
+Nukleox is an open FaaS platform built over Kubernetes offering powerful state management tools to redefine how you create micro-services to support your enterprise applications
